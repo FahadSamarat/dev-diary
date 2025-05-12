@@ -23,7 +23,7 @@ Passionate about building interactive websites and constantly exploring new tech
 
 ## Some terminal command i use
 
-cd,mkdir,ls,ls -force, rm,cp,mv
+cd,mkdir,ls,ls -force,rm,cp,mv
 
 ### Screenshots
 
