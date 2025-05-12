@@ -23,7 +23,13 @@ Passionate about building interactive websites and constantly exploring new tech
 
 ## Some terminal command i use
 
-cd,mkdir,ls,ls -force,rm,cp,mv
+cd:  change directory.
+mkdir: to make a new directory in the filesystem.
+ls:  list the contents of a directory.
+ls -force: list the contents and hidden contents of a directory.
+rm: to delete files and directories.
+cp:  to copy files or directories.
+mv: to move a file into a directory.
 
 ### Screenshots
 
