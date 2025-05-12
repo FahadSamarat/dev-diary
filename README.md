@@ -19,7 +19,7 @@ Passionate about building interactive websites and constantly exploring new tech
 
 - Keep Learning: Stay curious and continue improving your skills.
 
-- ***Break Problems Down: Split complex tasks into smaller, manageable pieces.
+- Break Problems Down: Split complex tasks into smaller, manageable pieces.
 
 ## Some terminal command i use
 
